@@ -75,7 +75,8 @@ p {
     margin-left: 25px;
 }
 
-/* Moved this Whole section up to match the semantic structure of the HTML */
+/* Moved this Whole section up to match the semantic structure of the HTML, 
+made sure the rest of the CSS also followed the HTML */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
