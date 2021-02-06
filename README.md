@@ -14,7 +14,6 @@ Changes to HTML:
   
   Changes to CSS: 
   * Re-organized it all to make it align with the elements in the HTML page (moved a whole section up behind .float-right) 
-  * Added the '.heart' element to edit the heart symbol and make it match the one that was previously there, see image below for reference 
-  
+  * Added the '.heart' element to edit the heart symbol and make it match the one that was previously there (adding color and font-size)
   
 Link to deployed application: https://jd-jaramillo.github.io/refactoring-code-for-accessibility/ 
