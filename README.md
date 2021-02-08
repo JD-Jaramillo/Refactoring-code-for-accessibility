@@ -26,7 +26,7 @@ See my comments below of the changes made on the HTMl and CSS pages, the comment
   
 Link to deployed application: https://jd-jaramillo.github.io/refactoring-code-for-accessibility/ 
 
-![refactoring-code-for-accessibility](horiseon-home-page)
+![refactoring-code-for-accessibility](horiseon-home-page.png)
 
 ## Requirements 
 ---
